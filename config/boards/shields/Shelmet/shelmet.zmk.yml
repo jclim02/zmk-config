@@ -1,1 +1,5 @@
 file_format: "1"
+id: shelmet
+name: Shelmet
+type: shield
+url: https://github.com/foostan/crkbd/
