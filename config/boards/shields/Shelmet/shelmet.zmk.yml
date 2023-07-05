@@ -5,7 +5,5 @@ type: shield
 url: https://github.com/jclim02/zmk-config/tree/master/config/boards/shields/Shelmet
 requires:
   - pro_micro
-exposes:
-  - pwm_haptic
 features:
   - keys
