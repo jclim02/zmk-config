@@ -25,11 +25,11 @@
 
         default_layer {
 // -------------------
-// | 1      |  2      | 3      |  4      |
+// | 1      |  2      | 3      |  BT NXT |
 // | 5      |  6      | 7      |  BT CLR |
 // ----------------------
             bindings = <
-    &kp N1 &kp N2 &kp N3 &kp N4
+    &kp N1 &kp N2 &kp N3 &bt BT_NXT
     &kp N5 &kp N6 &kp N7 &bt BT_CLR
             >;
         };
